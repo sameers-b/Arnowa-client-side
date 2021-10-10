@@ -1,0 +1,12 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.dashboard-container h3{
+   text-align: center;
+}
+.dashboard-container .chart span{
+   display: inline-block;
+   height: 50%;
+   width: 50%;
+}
